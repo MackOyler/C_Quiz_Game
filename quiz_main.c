@@ -77,7 +77,7 @@ int main()
         printf("3) First computer virus is known as?\n\n");
         printf("1) Rabbit\n");
         printf("2) Creeper Virus\n");
-        print("3) Elk Cloner\n");
+        printf("3) Elk Cloner\n");
         printf("4) SCA Virus\n");
 
         printf("Enter your answer: ");
