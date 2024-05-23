@@ -33,7 +33,7 @@ int main()
         printf("1) Which one is the first search engine on the internet?\n\n");
         printf("1) Google\n");
         printf("2) Archie\n");
-        printf("3) Wais");
+        printf("3) Wais\n");
         printf("4) Altavista\n");
 
         printf("Enter Your Answer : ");
